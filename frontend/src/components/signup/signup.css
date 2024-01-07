@@ -1,0 +1,33 @@
+.signup {
+  width: 100%;
+  height: 100vh;
+}
+.heading{
+  font-size: 150px;
+  margin-left: 360px;
+  font-weight: bolder;
+  font-family: "Sofia", sans-serif;
+  text-shadow: 5px 5px 5px #ababab;
+}
+.heading2{
+  margin-left: 500px;
+}
+.column {
+  /* height: 120vh; */
+  margin-left: 200px;
+}
+.input-signup {
+  outline: none;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 5px 5px 5px #888787;
+}
+
+.btn-signup {
+  background-color: rgba(240, 0, 0, 0.87);
+  color: white;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px #888787;
+}
